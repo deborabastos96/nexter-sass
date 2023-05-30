@@ -1,3 +1,3 @@
-# Natours Project
+# Nexter Project
 
-This folder contains the archives from the lessons on creating the Natours project.
+This folder contains the archives from the lessons on creating the Nexter project.
