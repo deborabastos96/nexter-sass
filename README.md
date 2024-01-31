@@ -13,6 +13,6 @@ Nexter offers users the opportunity to explore luxury homes available for sale. 
 * Experience the ultimate personal freedom of owning your dream home
 
 ## Technologies Used
-* HTML5
-* CSS3 (including Flexbox and Grid)
-* JavaScript
+* Sass
+* HTML
+* CSS
